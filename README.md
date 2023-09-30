@@ -1,1 +1,1 @@
-# dofustheme
+Thème d'interface Dofus
